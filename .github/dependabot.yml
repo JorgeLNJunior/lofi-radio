@@ -12,6 +12,6 @@ updates:
       day: "sunday"
       time: "6:00"
       timezone: "America/Sao_Paulo
-      target-branch: "develop"
-      versioning-strategy: increase-if-necessary
-      open-pull-requests-limit: 10
+    target-branch: "develop"
+    versioning-strategy: increase-if-necessary
+    open-pull-requests-limit: 10
