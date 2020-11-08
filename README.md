@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/github/license/JorgeLNJunior/lofi-radio)](https://github.com/JorgeLNJunior/lofi-radio/blob/master/LICENSE.md)
+[![License](https://img.shields.io/github/license/JorgeLNJunior/lofi-radio)](https://github.com/JorgeLNJunior/lofi-radio/blob/master/LICENSE)
 [![Release](https://img.shields.io/github/v/release/JorgeLNJunior/lofi-radio?)](https://github.com/JorgeLNJunior/lofi-radio/releases)
 
 </div>
