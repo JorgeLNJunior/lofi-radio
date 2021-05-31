@@ -6,14 +6,14 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/github/license/JorgeLNJunior/lofi-radio)](https://github.com/JorgeLNJunior/lofi-radio/blob/master/LICENSE.md)
+[![License](https://img.shields.io/github/license/JorgeLNJunior/lofi-radio)](https://github.com/JorgeLNJunior/lofi-radio/blob/master/LICENSE)
 [![Release](https://img.shields.io/github/v/release/JorgeLNJunior/lofi-radio?)](https://github.com/JorgeLNJunior/lofi-radio/releases)
 
 </div>
 
 <div align="center">
 
-Aplicação para streaming de músicas (Lo-Fi Hip-Hop). Para mais informações acesse o seu respectivo [quadro trello](https://trello.com/b/HXbSrc6l/lo-fi-radio).
+Aplicação simples para streaming de músicas (Lo-Fi Hip-Hop). Para mais informações acesse o seu respectivo [quadro trello](https://trello.com/b/HXbSrc6l/lo-fi-radio).
 
 </div>
 
